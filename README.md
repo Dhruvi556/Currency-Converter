@@ -15,7 +15,7 @@ To install a requirement, you can download from the link mentioned.
 
 ### Python Module Requirements
 
-- Modules required: **selenium, pillow, tk. <br>
+- Modules required: **selenium, speech_recognition, pyttsx3. <br>
 - These can be installed by typing the following command in CMD: ```pip3 install -r requirements.txt```
      
          
@@ -29,7 +29,7 @@ To install a requirement, you can download from the link mentioned.
 
 ## Notes 
 - This bot **only works in _Windows_** (due to directory address configurations which differ in other OS'es.)
-- It is important to **_replace the chrome Webdriver address in line number 16_ with the address of your Webdriver's location address.** 
+- It is important to **_replace the chrome Webdriver address in line number 27_ with the address of your Webdriver's location address.** 
 - After changing the address, **if you receive an error**, convert all the single back-slashes into double back-slashes in the address. **Eg: "\\" becomes "\\\\"**. 
 
 
